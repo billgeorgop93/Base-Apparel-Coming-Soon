@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <title>Frontend Mentor | Base Apparel coming soon page</title>
+  </head>
+  <body>
+    <main>
+      <div class="logo"><img src="./images/logo.svg" alt="Logo"></div>
+      <div class="img"></div>
+      <div class="content">
+        <h1>We're <span>coming soon</span></h1>
+        <p class="text">Hello fellow shoppers! We're currently building our new fashion store. 
+          Add your email below to stay up-to-date with announcements and our launch deals.</p>
+        <form class="form" id="form">
+          <div class="form-control">
+            <!-- removed error class from input -->
+            <input type="text" id="email" placeholder="Email Address">
+            <button class="btn"><img src="./images/icon-arrow.svg" alt="Arrow"></button>
+            <i class="fa fa-exclamation-circle fa-lg"></i>
+          </div>
+          <small>Error message</small>
+        </form>
+      </div>
+    </main>
+    <script src="./script.js"></script>
+  </body>
+</html>
