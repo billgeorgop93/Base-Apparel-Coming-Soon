@@ -85,6 +85,8 @@ span {
 	width: 70px;
 	box-shadow: 0 10px 15px rgb(230, 204, 204);
 	border: none;
+	cursor: pointer;
+  transition: all 0.4s ease-in-out;
 }
 
 .btn:hover {
