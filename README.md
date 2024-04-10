@@ -9,4 +9,4 @@ https://www.javascripttutorial.net/javascript-dom/javascript-form-validation/
 This is the preview I made:
 ![](FinishedPreview.png)
 
-Live: https://zer0fr0st93.github.io/Base-Apparel-Coming-Soon/
+Live: https://billgeorgop93.github.io/Base-Apparel-Coming-Soon/
